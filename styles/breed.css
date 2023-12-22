@@ -33,6 +33,7 @@
   .breed__characteristics {
     font-size: 14px;
     margin: 0;
+    padding-left: 14px;
   }
 
   .breed__description {
